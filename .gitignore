@@ -8,6 +8,12 @@ __pycache__/
 .vs/
 .idea/
 .cache/
+*.cflags
+*.config
+*.creator
+*.cxxflags
+*.files
+*.includes
 compile_commands.json
 
 # Project-specific ignores
